@@ -1,5 +1,5 @@
 # MyPDO
-Libreria para un uso más rapido de PDO de PHP 5.5 en adelante, para facilitar la forma de insertar datos con PDO
+Librería para un uso más rápido de PDO de PHP 5.5 en adelante, para facilitar la forma de insertar datos con PDO
 ## Funciones
 - ### rawInsert(Conexion (Conexion), tabla (String), campos (array), tabla (array) )
 Esta función no utiliza PDO para la insertar un nuevo registro a la base de datos (BD), si no que utiliza los valores que son pasados
